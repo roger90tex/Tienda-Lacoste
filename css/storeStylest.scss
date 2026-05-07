@@ -331,8 +331,22 @@ body {
       background-color: #219150;
     }
   }
+  .producto-card{
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+  }
   
-
+  .btn-remove {
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 8px;
+}
 
   .footer {
     background-color: #f2f2f2; // Fondo gris claro
